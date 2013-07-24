@@ -1,0 +1,52 @@
+/*Style*/
+
+body {
+	color:#999;
+	font-size:0.875em; /* 14px / 16px */
+	line-height:1.5;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+	width:95.5078125%; /* 978px / 1024px */
+	margin:20px auto;
+}
+
+header {
+	height:100px;
+	background-color:#666;
+}
+
+nav {
+}
+
+hero {
+	margin:auto;
+}
+
+#subnav {
+	width:39.87730061349693%; /* 390px / 978px */
+	float:left;
+	overflow:hidden;
+}
+
+#main {
+	57.05521472392638%; /* 558px / 978px */
+	float:right;
+	overflow:hidden;
+}
+
+#content {
+	width:67.20430107526882%; /* 375px / 558px */
+	float:left;
+}
+
+#sidebar {
+	width:32.25806451612903%; /* 180px / 558px */
+	float:right;
+}
+
+footer {
+	clear:both;
+	text-align:center;
+}
